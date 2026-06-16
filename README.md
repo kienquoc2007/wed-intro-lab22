@@ -1,1 +1,24 @@
 # wed-intro-lab22
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang Web Đầu Tiên</title>
+</head>
+<body>
+
+  <h1>Chào mừng đến với trang web của tôi</h1>
+
+  <p>
+    Đây là ví dụ về một trang HTML cơ bản. Trang web này sử dụng
+    cấu trúc chuẩn gồm DOCTYPE, html, head và body.
+  </p>
+
+  <p>
+    Nội dung hiển thị cho người dùng thường được đặt trong thẻ body,
+    chẳng hạn như tiêu đề, văn bản, hình ảnh và liên kết.
+  </p>
+
+</body>
+</html>
